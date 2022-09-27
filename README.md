@@ -1,7 +1,11 @@
 ### Olá devs 👋
 
 Estou começando nesse mundo, porém acredito que logo irei a criar projetos logo
-<https://www.startpage.com/av/proxy-image?piurl=http%3A%2F%2Flite.acad.univali.br%2Fportugol%2Fassets%2Fimg%2Flogo.png&sp=1664288354T9691eea5ed81a7c020b0aa33e98abca3ba507e4549878f956d5e96016ed6fc39>
+<div align="center">
+  <a href="https://github.com/Cannedsans">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <!--
 **Cannedsans/Cannedsans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
