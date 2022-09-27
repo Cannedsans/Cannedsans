@@ -3,7 +3,7 @@
 Estou começando nesse mundo, porém acredito que logo irei a criar projetos logo
 <div align="center">
   <a href="https://github.com/Cannedsans">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--
