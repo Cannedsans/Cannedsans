@@ -1,6 +1,5 @@
 ### Olá devs 👋
 
-Estou começando nesse mundo, porém acredito que logo irei a criar projetos logo
 <div align="center">
   <a href="https://github.com/Cannedsans">
   
