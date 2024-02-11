@@ -1,4 +1,3 @@
-### Olá devs 👋
 
 <div align="center">
   <a href="https://github.com/Cannedsans">
