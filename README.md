@@ -1,7 +1,5 @@
-# 💫 Sobre mim:
-Um programador mais generalista, tenho interesse em um pouco de tudo<br>arduino, programação web, linux, no geral eu curto usar tecnologias de todo tipo
 
-## 🌐 Redes sociais:
+# 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joaofilipera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaofilgueria) [![Threads](https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@joaofilipera)
 
 # 💻 Tech Stack:
