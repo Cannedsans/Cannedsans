@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="23.348572mm"
+   height="23.348558mm"
+   viewBox="0 0 88.246571 88.246523"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:export-bgcolor="#ffffff00"><inkscape:page
+       x="-9.8249035e-13"
+       y="0"
+       width="88.246567"
+       height="88.246521"
+       id="page2"
+       margin="0"
+       bleed="0" /></sodipodi:namedview><defs
+     id="defs1" /><g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-169.66553,-558.79376)"><g
+       id="g724"><rect
+         id="rect28"
+         width="88.246559"
+         height="88.246559"
+         x="169.66551"
+         y="558.79376"
+         rx="17.154173"
+         ry="0"
+         style="fill:#092e20;fill-opacity:1;stroke-width:0.778285" /><text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.80839px;line-height:0%;font-family:SteelTongs;-inkscape-font-specification:SteelTongs;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.400699"
+         x="180.0766"
+         y="598.6153"
+         id="text2902"
+         transform="scale(0.97727455,1.0232539)"><tspan
+           sodipodi:role="line"
+           id="tspan2904"
+           x="180.0766"
+           y="598.6153"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8227px;line-height:1.25;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.400699">RTOS</tspan></text></g></g></svg>
