@@ -47,7 +47,9 @@
   <img src="icons/awk.svg" height="60" alt="awk logo" style="border-radius: 5px" />
   <img src="icons/putty.svg" height="60" alt="putty logo" style="border-radius: 5px" />
 <div>
+
 ###
+
 <p align="left">Other skills</p>
 
 ###
