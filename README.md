@@ -10,9 +10,8 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="icons/go.svg" height="60" alt="go logo"  />
-
   <img src="icons/mysql.svg" height="60" alt="mysql logo"  />
   <img src="icons/sqlite.svg" height="60" alt="sqlite logo"  />
   <img src="icons/postman.svg" height="60" alt="postman logo"  />
@@ -26,7 +25,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="icons/arduino.svg" height="60" alt="arduino logo"  />
   <img src="icons/cpp.svg" height="60" alt="cplusplus logo"  />
   <img src="icons/rabbitMQ.svg" height="60" alt="rabbitmq logo"  />
