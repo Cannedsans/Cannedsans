@@ -12,7 +12,7 @@
 
 <div align="left">
   <img src="icons/go.svg" height="60" alt="go logo" style="border-radius: 5px" />
-  <img src="icons/mariadb.svg" height="60" alt="mysql logo" style="border-radius: 5px" />
+  <img src="icons/postgresql.svg" height="60" alt="postgresql logo" style="border-radius: 5px" />
   <img src="icons/sqlite.svg" height="60" alt="sqlite logo" style="border-radius: 5px" />
   <img src="icons/postman.svg" height="60" alt="postman logo" style="border-radius: 5px" />
   <img src="icons/swagger.svg" height="60" alt="swagger logo" style="border-radius: 5px" />
@@ -29,6 +29,7 @@
   <img src="icons/arduino.svg" height="60" alt="arduino logo" style="border-radius: 5px" />
   <img src="icons/esp.svg" height="60" alt="espressif logo" style="border-radius: 5px" />
   <img src="icons/raspberrypi.svg" height="60" alt="raspberrypi logo" style="border-radius: 5px" />
+  <img src="icons/orangepi.svg" height="60" alt="orangepi logo" style="border-radius: 5px" />
   <img src="icons/cpp.svg" height="60" alt="cplusplus logo" style="border-radius: 5px" />
   <img src="icons/rabbitMQ.svg" height="60" alt="rabbitmq logo" style="border-radius: 5px" />
   <img src="icons/nodeRed.svg" height="60" alt="Node Red logo" style="border-radius: 5px" />
@@ -43,6 +44,7 @@
   <img src="icons/portainer.svg" height="60" alt="portainer logo" style="border-radius: 5px" />
   <img src="icons/linux.svg" height="60" alt="linux logo" style="border-radius: 5px" />
   <img src="icons/bash.svg" height="60" alt="bash logo" style="border-radius: 5px" />
+  <img src="icons/awk.svg" height="60" alt="awk logo" style="border-radius: 5px" />
   <img src="icons/putty.svg" height="60" alt="putty logo" style="border-radius: 5px" />
 <div>
 ###
@@ -57,6 +59,7 @@
   <img src="icons/nodejs.svg" height="60" alt="nodejs logo" style="border-radius: 5px" />
   <img src="icons/python.svg" height="60" alt="python logo" style="border-radius: 5px" />
   <img src="icons/django.svg" height="60" alt="django logo" style="border-radius: 5px" />
+  <img src="icons/mariadb.svg" height="60" alt="mariadb logo" style="border-radius: 5px" />
 </div>
 
 ###
