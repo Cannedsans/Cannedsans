@@ -12,10 +12,11 @@
 
 <div align="left">
   <img src="icons/go.svg" height="60" alt="go logo" style="border-radius: 5px" />
-  <img src="icons/mysql.svg" height="60" alt="mysql logo" style="border-radius: 5px" />
+  <img src="icons/mariadb.svg" height="60" alt="mysql logo" style="border-radius: 5px" />
   <img src="icons/sqlite.svg" height="60" alt="sqlite logo" style="border-radius: 5px" />
   <img src="icons/postman.svg" height="60" alt="postman logo" style="border-radius: 5px" />
   <img src="icons/swagger.svg" height="60" alt="swagger logo" style="border-radius: 5px" />
+  <img src="icons/git.svg" height="60" alt="git logo" style="border-radius: 5px" />
 </div>
 
 ###
@@ -26,33 +27,36 @@
 
 <div align="left">
   <img src="icons/arduino.svg" height="60" alt="arduino logo" style="border-radius: 5px" />
+  <img src="icons/esp.svg" height="60" alt="espressif logo" style="border-radius: 5px" />
+  <img src="icons/raspberrypi.svg" height="60" alt="raspberrypi logo" style="border-radius: 5px" />
   <img src="icons/cpp.svg" height="60" alt="cplusplus logo" style="border-radius: 5px" />
   <img src="icons/rabbitMQ.svg" height="60" alt="rabbitmq logo" style="border-radius: 5px" />
   <img src="icons/nodeRed.svg" height="60" alt="Node Red logo" style="border-radius: 5px" />
-  <img src="icons/raspberrypi.svg" height="60" alt="raspberrypi logo" style="border-radius: 5px" />
-  <img src="icons/esp.svg" height="60" alt="espressif logo" style="border-radius: 5px" />
   <img src="icons/freertos.svg" height="60" alt="FreeRTOS logo" style="border-radius: 5px" />
 </div>
 
 ###
 
+<p align="left">Deploy skills</p>
+<div align="left">
+  <img src="icons/docker.svg" height="60" alt="docker logo" style="border-radius: 5px" />
+  <img src="icons/portainer.svg" height="60" alt="portainer logo" style="border-radius: 5px" />
+  <img src="icons/linux.svg" height="60" alt="linux logo" style="border-radius: 5px" />
+  <img src="icons/bash.svg" height="60" alt="bash logo" style="border-radius: 5px" />
+  <img src="icons/putty.svg" height="60" alt="putty logo" style="border-radius: 5px" />
+<div>
+###
 <p align="left">Other skills</p>
 
 ###
 
 <div align="left">
-  <img src="icons/git.svg" height="60" alt="git logo" style="border-radius: 5px" />
   <img src="icons/html.svg" height="60" alt="html5 logo" style="border-radius: 5px" />
   <img src="icons/css.svg" height="60" alt="css logo" style="border-radius: 5px" />
   <img src="icons/js.svg" height="60" alt="javascript logo" style="border-radius: 5px" />
-  <img src="icons/linux.svg" height="60" alt="linux logo" style="border-radius: 5px" />
-  <img src="icons/bash.svg" height="60" alt="bash logo" style="border-radius: 5px" />
-  <img src="icons/docker.svg" height="60" alt="docker logo" style="border-radius: 5px" />
-  <img src="icons/portainer.svg" height="60" alt="portainer logo" style="border-radius: 5px" />
-  <img src="icons/django.svg" height="60" alt="django logo" style="border-radius: 5px" />
-  <img src="icons/python.svg" height="60" alt="python logo" style="border-radius: 5px" />
   <img src="icons/nodejs.svg" height="60" alt="nodejs logo" style="border-radius: 5px" />
-  <img src="icons/putty.svg" height="60" alt="putty logo" style="border-radius: 5px" />
+  <img src="icons/python.svg" height="60" alt="python logo" style="border-radius: 5px" />
+  <img src="icons/django.svg" height="60" alt="django logo" style="border-radius: 5px" />
 </div>
 
 ###
