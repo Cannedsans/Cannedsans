@@ -11,17 +11,13 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img src="icons/go.svg" height="60" alt="go logo"  />
+
+  <img src="icons/mysql.svg" height="60" alt="mysql logo"  />
+  <img src="icons/sqlite.svg" height="60" alt="sqlite logo"  />
+  <img src="icons/postman.svg" height="60" alt="postman logo"  />
+  <img src="icons/swagger.svg" height="60" alt="swagger logo"  />
+
 </div>
 
 ###
@@ -31,13 +27,14 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="rabbitmq logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
+  <img src="icons/arduino.svg" height="60" alt="arduino logo"  />
+  <img src="icons/cpp.svg" height="60" alt="cplusplus logo"  />
+  <img src="icons/rabbitMQ.svg" height="60" alt="rabbitmq logo"  />
+  <img src="icons/nodeRed.svg" height="60" alt="Node Red logo"  />
+  <img src="icons/raspberrypi.svg" height="60" alt="raspberrypi logo"  />
+  <img src="icons/esp.svg" height="60" alt="espressif logo"  />
+  <img src="icons/freertos.svg" height="60" alt="FreeRTOS logo"  />
+
 </div>
 
 ###
@@ -47,23 +44,18 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="60" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="60" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img src="icons/git.svg" height="60" alt="git logo"  />
+  <img src="icons/html.svg" height="60" alt="html5 logo"  />
+  <img src="icons/css.svg" height="60" alt="css logo"  />
+  <img src="icons/js.svg" height="60" alt="javascript logo"  />
+  <img src="icons/linux.svg" height="60" alt="linux logo"  />
+  <img src="icons/bash.svg" height="60" alt="bash logo"  />
+  <img src="icons/docker.svg" height="60" alt="docker logo"  />
+  <img src="icons/portainer.svg" height="60" alt="portainer logo"  />
+  <img src="icons/django.svg" height="60" alt="django logo"  />
+  <img src="icons/python.svg" height="60" alt="python logo"  />
+  <img src="icons/nodejs.svg" height="60" alt="nodejs logo"  />
+  <img src="icons/putty.svg" height="60" alt="putty logo"  />
 </div>
 
 ###
