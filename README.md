@@ -49,6 +49,18 @@
 <div>
 
 ###
+<p align="left">IA skills</p>
+
+###
+
+<div align="left">
+  <img src="icons/python.svg" height="60" alt="python logo" style="border-radius: 5px" />
+  <img src="icons/ollama.svg" height="60" alt="ollama logo" style="border-radius: 5px" />
+  <img src="icons/Streamlit.svg" height="60" alt="streamlit logo" style="border-radius: 5px"/>
+  <img src="icons/opencv.svg" height="60" alt="opencv logo" style="border-radius: 5px" />
+</div>
+
+###
 
 <p align="left">Other skills</p>
 
@@ -59,7 +71,6 @@
   <img src="icons/css.svg" height="60" alt="css logo" style="border-radius: 5px" />
   <img src="icons/js.svg" height="60" alt="javascript logo" style="border-radius: 5px" />
   <img src="icons/nodejs.svg" height="60" alt="nodejs logo" style="border-radius: 5px" />
-  <img src="icons/python.svg" height="60" alt="python logo" style="border-radius: 5px" />
   <img src="icons/django.svg" height="60" alt="django logo" style="border-radius: 5px" />
   <img src="icons/mariadb.svg" height="60" alt="mariadb logo" style="border-radius: 5px" />
 </div>
