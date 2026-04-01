@@ -58,6 +58,8 @@
   <img src="icons/ollama.svg" height="60" alt="ollama logo" style="border-radius: 5px" />
   <img src="icons/Streamlit.svg" height="60" alt="streamlit logo" style="border-radius: 5px"/>
   <img src="icons/opencv.svg" height="60" alt="opencv logo" style="border-radius: 5px" />
+  <img src="icons/unstructured.svg" height="60" alt="opencv logo" style="border-radius: 5px" />
+
 </div>
 
 ###
